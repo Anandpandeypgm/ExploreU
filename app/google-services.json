@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638679383578",
+    "project_id": "exploreu-f98f9",
+    "storage_bucket": "exploreu-f98f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638679383578:android:231aee883b282e35b41ba3",
+        "android_client_info": {
+          "package_name": "com.anandroid.exploreu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638679383578-89q7pb44dv270gkco2c7apkput8st7up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1g4YEua_PHvG-RFg8u_eAa0yYRYO8dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638679383578-89q7pb44dv270gkco2c7apkput8st7up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

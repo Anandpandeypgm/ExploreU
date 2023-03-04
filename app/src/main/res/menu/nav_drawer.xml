@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn ="navigation_view"
+    >
+
+    <item android:id="@+id/favourite"
+        android:title="@string/favourite"
+        android:icon="@drawable/favourite"/>
+
+    <item android:id="@+id/rateUs"
+        android:title="@string/rate_us"
+        android:icon="@drawable/star"/>
+
+    <item android:id="@+id/shareApp"
+        android:title="@string/share_app"
+        android:icon="@drawable/share"/>
+
+    <item android:id="@+id/termsCondition"
+        android:title="@string/terms_conditions"
+        android:icon="@drawable/compliant"/>
+
+    <item android:id="@+id/privacyPolicy"
+        android:title="@string/privacy_policy"
+        android:icon="@drawable/privacy"/>
+
+    <item android:id="@+id/developer"
+        android:title="@string/developer"
+        android:icon="@drawable/coding"/>
+
+</menu>
